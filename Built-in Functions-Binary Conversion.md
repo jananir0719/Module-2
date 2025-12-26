@@ -20,7 +20,8 @@ print("Binary equivalent:", binary)
 ```
 
 ## Output
-<img width="467" height="77" alt="image" src="https://github.com/user-attachments/assets/c1dfc7d2-c8fc-4e89-8254-2dba7387009d" />
+<img width="698" height="191" alt="image" src="https://github.com/user-attachments/assets/d39347ac-157f-4eaa-8dcd-f91227323a7d" />
+
 
 
 ## Result
