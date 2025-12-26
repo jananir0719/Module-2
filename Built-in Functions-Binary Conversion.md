@@ -9,9 +9,19 @@ To write a Python program to convert the number **16** into its **binary represe
 3. Print the result.
 
 ## 🧾 Program
+```
+# Binary conversion using built-in function
 
-Add Code Here
+num = int(input("Enter a decimal number: "))
+
+binary = bin(num)
+
+print("Binary equivalent:", binary)
+```
 
 ## Output
+<img width="467" height="77" alt="image" src="https://github.com/user-attachments/assets/c1dfc7d2-c8fc-4e89-8254-2dba7387009d" />
+
 
 ## Result
+Thus, the Python program to convert a decimal number into its binary equivalent using a built-in function was executed successfully.
